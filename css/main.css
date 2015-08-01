@@ -7,6 +7,16 @@
 body{
 	font-size: 16px;
 }
+.app-header{
+	padding-bottom: 600px;
+	font-size: 14px;
+		background: url("../img/background.jpg") no-repeat center top fixed;
+	font-family: "Avenir", Futura, Helvetica, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-bottom: -20px;
+	background-color: rgba(0,0,0,0.6);
+}
 .app-navbar{
 	border-radius: 0;
 	background: #4F67FF;
