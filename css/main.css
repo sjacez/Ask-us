@@ -13,6 +13,7 @@ body{
 }
 .app-nav{
 	color: white;
+	text-align: center;
 }
 .app-nav li {
 	padding: 0px 10px;
