@@ -4,15 +4,44 @@
    Author's custom styles
    ========================================================================== */
 
-
+body{
+	font-size: 16px;
+}
 .app-navbar{
 	border-radius: 0;
+	background: #4F67FF;
+}
+.app-nav{
+	color: white;
+}
+.app-nav li {
+	padding: 0px 10px;
 }
 .app-nav li:hover{
-	
+	color: red;
 }
 
-
+.app-nav li a{
+	color: white;
+	text-shadow : none;
+}
+.app-nav li a:hover{
+	color: black;
+}
+.app-white{
+	color: white;
+	background: white;
+}
+.icon-bar{
+	color: white;
+}
+.navbar-brand{
+	color: white;
+	text-shadow: none;
+}
+.navbar-brand:hover{
+	color: white;
+}
 
 
 
